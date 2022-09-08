@@ -1,0 +1,5 @@
+fastapi
+psutil
+uvicorn
+sqlalchemy_pagination
+sqlalchemy
